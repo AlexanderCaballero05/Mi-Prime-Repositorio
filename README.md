@@ -1,2 +1,2 @@
-# Mi-Prime-Repositorio
+# Mi-Primer-Repositorio
 Html, Css, JavaScript
